@@ -1,2 +1,3 @@
-# jy-gitbook
-jy-gitbook
+# 简介
+
+中广核久源官网后台使用手册。
